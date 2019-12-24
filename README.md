@@ -1,1 +1,1 @@
-Permanent redirect to https://blog.tug.ro/
+Permanent redirect to tug.ro
